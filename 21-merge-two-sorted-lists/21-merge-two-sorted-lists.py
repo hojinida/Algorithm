@@ -10,8 +10,6 @@ class Solution:
         else:
             temp=list2
         while list1!=None:
-            print(list1)
-            print(list2)
             if temp.val>list1.val:
                 if list2==temp:
                     t=list1.next
