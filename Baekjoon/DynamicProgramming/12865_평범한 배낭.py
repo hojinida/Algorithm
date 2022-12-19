@@ -2,6 +2,7 @@ n, k = map(int, input().split())
 
 knapsack = [[0 for _ in range(k + 1)] for _ in range(n + 1)]
 arr=[[0,0]]
+
 for _ in range(n):
     arr.append(list(map(int, input().split())))
 
