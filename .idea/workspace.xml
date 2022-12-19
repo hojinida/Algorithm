@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2178_미로 탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2606_바이러스.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/DynamicProgramming/12865_평범한 배낭.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/DynamicProgramming/12865_평범한 배낭.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2178_미로 탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2178_미로 탐색.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2178_미로 탐색">
+  <component name="RunManager" selected="Python.2606_바이러스">
     <configuration name="1260_DFS와BFS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2667_단지번호 붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2606_바이러스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Backjun" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Backjun/2667_단지번호 붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/bfs, dfs/2606_바이러스.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2606_바이러스" />
         <item itemvalue="Python.2178_미로 탐색" />
         <item itemvalue="Python.1655_가운데를 말해요" />
         <item itemvalue="Python.12865_평범한 배낭" />
         <item itemvalue="Python.1260_DFS와BFS" />
-        <item itemvalue="Python.2667_단지번호 붙이기" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,7 @@
       <workItem from="1671270773232" duration="18917000" />
       <workItem from="1671303809758" duration="1850000" />
       <workItem from="1671365506899" duration="13345000" />
-      <workItem from="1671391360045" duration="7682000" />
+      <workItem from="1671391360045" duration="9344000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -320,6 +320,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve46.coverage" NAME="Solve46 Coverage Results" MODIFIED="1655035453466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve49.coverage" NAME="Solve49 Coverage Results" MODIFIED="1655040528685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve8.coverage" NAME="Solve8 Coverage Results" MODIFIED="1654046089369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$2606_.coverage" NAME="2606_바이러스 커버리지 결과" MODIFIED="1671453914090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve16.coverage" NAME="Solve16 Coverage Results" MODIFIED="1654149953595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$.coverage" NAME="기능개발 Coverage Results" MODIFIED="1655473202958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve19.coverage" NAME="Solve19 Coverage Results" MODIFIED="1654166282122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
