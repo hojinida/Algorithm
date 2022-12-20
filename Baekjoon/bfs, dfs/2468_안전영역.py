@@ -12,7 +12,7 @@ def check(num):
 
 
 def bfs(num, x, y):
-    flag=False
+    flag = False
     q = deque()
     q.append((x, y))
     if visited[x][y] == 0:
@@ -28,21 +28,22 @@ def bfs(num, x, y):
                 q.append((dn, dm))
     return flag
 
+
 N = int(input())
 
 dx = [-1, 1, 0, 0]
 dy = [0, 0, -1, 1]
 graph = [[int(i) for i in input().split()] for _ in range(N)]
 
-answer=0
+answer = 0
 for i in range(1, 101):
     temp = check(i)
-    count=0
+    count = 0
     if len(temp) == 0: break
     visited = [[0 for _ in range(N)] for _ in range(N)]
     for x, y in temp:
         if bfs(i, x, y):
-            count+=1
-    answer=max(answer,count)
+            count += 1
+    answer = max(answer, count)
 
 sys.stdout.write(str(answer))

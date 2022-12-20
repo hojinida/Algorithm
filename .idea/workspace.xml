@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2468_안전영역.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2573_빙산.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2468_안전영역.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/2468_안전영역.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2468_안전영역">
+  <component name="RunManager" selected="Python.2573_빙산">
     <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2644_촌수계산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2573_빙산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +102,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/bfs, dfs/2644_촌수계산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/bfs, dfs/2573_빙산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2573_빙산" />
         <item itemvalue="Python.2468_안전영역" />
         <item itemvalue="Python.5014_스타트링크" />
         <item itemvalue="Python.1697_숨바꼭질" />
         <item itemvalue="Python.7569_토마토" />
-        <item itemvalue="Python.2644_촌수계산" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +207,7 @@
       <workItem from="1671365506899" duration="13345000" />
       <workItem from="1671391360045" duration="23749000" />
       <workItem from="1671493027042" duration="5349000" />
-      <workItem from="1671545803363" duration="6122000" />
+      <workItem from="1671545803363" duration="15462000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -298,7 +299,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve45.coverage" NAME="Solve45 Coverage Results" MODIFIED="1655035449599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve48.coverage" NAME="Solve48 Coverage Results" MODIFIED="1655036383023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve4_pv.coverage" NAME="Solve4.pv Coverage Results" MODIFIED="1654026711898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
-    <SUITE FILE_PATH="coverage/Algorithm$2468_.coverage" NAME="2468_안전영역 커버리지 결과" MODIFIED="1671553258738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
+    <SUITE FILE_PATH="coverage/Algorithm$2468_.coverage" NAME="2468_안전영역 커버리지 결과" MODIFIED="1671553357876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve54.coverage" NAME="Solve54 Coverage Results" MODIFIED="1655061658829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve39.coverage" NAME="Solve39 Coverage Results" MODIFIED="1654520315462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2021_kakao__.coverage" NAME="2021 kakao 순위 검색 Coverage Results" MODIFIED="1656076410357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
@@ -308,6 +309,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve1.coverage" NAME="Solve1 Coverage Results" MODIFIED="1654019108959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve7.coverage" NAME="Solve7 Coverage Results" MODIFIED="1654030128698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2019_kakao_.coverage" NAME="2019 kakao 후보키 Coverage Results" MODIFIED="1656195011019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
+    <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 커버리지 결과" MODIFIED="1671563407839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve10.coverage" NAME="Solve10 Coverage Results" MODIFIED="1654065332840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve27.coverage" NAME="Solve27 Coverage Results" MODIFIED="1654234038896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2020_kakao__.coverage" NAME="2020 kakao 괄호 변환 Coverage Results" MODIFIED="1655848553415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
