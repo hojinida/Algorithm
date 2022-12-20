@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/7569_토마토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/bfs, dfs/1697_숨바꼭질.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +43,8 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7569_토마토">
-    <configuration name="1655_가운데를 말해요" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1697_숨바꼭질">
+    <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,12 +52,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/DataStructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/DataStructure/1655_가운데를 말해요.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/bfs, dfs/1697_숨바꼭질.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1697_숨바꼭질" />
         <item itemvalue="Python.7569_토마토" />
         <item itemvalue="Python.2644_촌수계산" />
         <item itemvalue="Python.2606_바이러스" />
         <item itemvalue="Python.2178_미로 탐색" />
-        <item itemvalue="Python.1655_가운데를 말해요" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +204,8 @@
       <workItem from="1671270773232" duration="18917000" />
       <workItem from="1671303809758" duration="1850000" />
       <workItem from="1671365506899" duration="13345000" />
-      <workItem from="1671391360045" duration="23494000" />
+      <workItem from="1671391360045" duration="23749000" />
+      <workItem from="1671493027042" duration="4565000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -291,6 +292,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$124__.coverage" NAME="124 나라의 숫자 Coverage Results" MODIFIED="1655313716520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$1655__.coverage" NAME="1655_가운데를 말해요 커버리지 결과" MODIFIED="1671383315076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DataStructure" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve23.coverage" NAME="Solve23 Coverage Results" MODIFIED="1654230358860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$1697_.coverage" NAME="1697_숨바꼭질 커버리지 결과" MODIFIED="1671524549731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve45.coverage" NAME="Solve45 Coverage Results" MODIFIED="1655035449599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve48.coverage" NAME="Solve48 Coverage Results" MODIFIED="1655036383023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve4_pv.coverage" NAME="Solve4.pv Coverage Results" MODIFIED="1654026711898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
