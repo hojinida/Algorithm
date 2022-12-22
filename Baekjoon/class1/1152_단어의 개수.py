@@ -3,4 +3,9 @@ import sys
 s = input()
 answer = s.split(" ", )
 
-sys.stdout.write(str(len(answer)))
+count = 0
+for i in answer:
+    if '' != i:
+        count += 1
+
+sys.stdout.write(str(count))
