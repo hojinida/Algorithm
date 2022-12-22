@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/class1/8958_OX퀴즈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +207,7 @@
       <workItem from="1671391360045" duration="23749000" />
       <workItem from="1671493027042" duration="5349000" />
       <workItem from="1671545803363" duration="30646000" />
-      <workItem from="1671671178911" duration="7995000" />
+      <workItem from="1671671178911" duration="9196000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -346,7 +345,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve52.coverage" NAME="Solve52 Coverage Results" MODIFIED="1655056682694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2178__.coverage" NAME="2178_미로 탐색 커버리지 결과" MODIFIED="1671446534045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$12865__.coverage" NAME="12865_평범한 배낭 커버리지 결과" MODIFIED="1671378114187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
-    <SUITE FILE_PATH="coverage/Algorithm$8958_OX.coverage" NAME="8958_OX퀴즈 커버리지 결과" MODIFIED="1671679517737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
+    <SUITE FILE_PATH="coverage/Algorithm$8958_OX.coverage" NAME="8958_OX퀴즈 커버리지 결과" MODIFIED="1671679785078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve31.coverage" NAME="Solve31 Coverage Results" MODIFIED="1654287821241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve34.coverage" NAME="Solve34 Coverage Results" MODIFIED="1654504016331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Sovle22.coverage" NAME="Sovle22 Coverage Results" MODIFIED="1654229216485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
