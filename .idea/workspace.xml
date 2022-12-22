@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/Baekjoon/class1/1000_A+B.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +206,8 @@
       <workItem from="1671365506899" duration="13345000" />
       <workItem from="1671391360045" duration="23749000" />
       <workItem from="1671493027042" duration="5349000" />
-      <workItem from="1671545803363" duration="30614000" />
+      <workItem from="1671545803363" duration="30646000" />
+      <workItem from="1671671178911" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
