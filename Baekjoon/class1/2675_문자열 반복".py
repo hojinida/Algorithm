@@ -8,4 +8,4 @@ for i in range(n):
         for _ in range(int(r)):
             sys.stdout.write(s[j])
     sys.stdout.write('\n')
-2
+
