@@ -1,21 +1,17 @@
 import sys
 
 s = input()
-s=s.upper()
+s = s.upper()
 
 temp = set(s)
 
-
-answer = 0
-result=''
-
+result = []
 for i in temp:
-    count = s.count(i)
-    if answer == count:
-        sys.stdout.write("?")
-        exit(0)
-    if answer < count:
-        answer = count
-        result = i
+    result.append(s.count(i))
 
-sys.stdout.write(result)
+maxV = max(result)
+if result.count(maxV) > 1:
+    sys.stdout.write("?")
+else:
+    temp = list(temp)
+    sys.stdout.write(temp[result.index(maxV)])
