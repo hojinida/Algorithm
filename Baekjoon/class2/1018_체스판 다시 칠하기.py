@@ -36,4 +36,5 @@ for p in start:
             for s in [row[j:j + 8] for row in values[i:i + 8]]:
                 count += s.count(1)
             answer.append(count)
+
 sys.stdout.write(str(min(answer)))
