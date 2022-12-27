@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/class2/2108_통계학.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +208,7 @@
       <workItem from="1671671178911" duration="9196000" />
       <workItem from="1671699645929" duration="22282000" />
       <workItem from="1671897160415" duration="15697000" />
-      <workItem from="1672036626613" duration="33163000" />
+      <workItem from="1672036626613" duration="33469000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -291,7 +288,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$2577__.coverage" NAME="2577_숫자의 개수 커버리지 결과" MODIFIED="1671675998159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve17.coverage" NAME="Solve17 Coverage Results" MODIFIED="1654153461698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
-    <SUITE FILE_PATH="coverage/Algorithm$2108_.coverage" NAME="2108_통계학 커버리지 결과" MODIFIED="1672166249465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
+    <SUITE FILE_PATH="coverage/Algorithm$2108_.coverage" NAME="2108_통계학 커버리지 결과" MODIFIED="1672166394567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve11.coverage" NAME="Solve11 Coverage Results" MODIFIED="1654066111283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve20.coverage" NAME="Solve20 Coverage Results" MODIFIED="1654227687147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1655__.coverage" NAME="1655_가운데를 말해요 커버리지 결과" MODIFIED="1671383315076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DataStructure" />
