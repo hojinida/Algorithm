@@ -2,8 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/DynamicProgramming/2748_피보나치 수 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/io/2588_A+B -2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Array/10808_알파벳 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Array/1475_방번호.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baekjoon/bruteForce/15686_치킨배달.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/BakingDog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/ada.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10950_A+B-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10951_A+B-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10952_A+B-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10953_A+B-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/cache-v2-12b86e40acdfdb3e3e4a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0b7913b20b3f28c149ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3add76adb2a065183d78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-09T01-20-57-0391.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-BakingDog-Debug-85f7c696b8618312e281.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-add-Debug-efd689f1fb61d539261c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-main-Debug-93cffb76f9aead4812a3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1fec8847d7c587f39f7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/BakingDog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/BakingDog.dir/ada.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/BakingDog.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/add.dir/add.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/add.dir/giftCollection.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/add" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/giftCollection.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +96,8 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2748_피보나치 수 2">
-    <configuration name="1003_피보나치 함수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10953_A+B-6">
+    <configuration name="10950_A+B-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/class3/1003_피보나치 함수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/10950_A+B-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1026_유기농 배추" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10951_A+B-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/class3/1026_유기농 배추.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/10951_A+B-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1389_케빈 베이컨의 6단계 법칙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10952_A+B-5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,12 +149,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/class3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/class3/1389_케빈 베이컨의 6단계 법칙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/10952_A+B-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1912_연속합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10953_A+B-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +171,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/DynamicProgramming/1912_연속합.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/10953_A+B-6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2748_피보나치 수 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2588_A+B -2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/DynamicProgramming/2748_피보나치 수 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/2588_A+B -2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2748_피보나치 수 2" />
-        <item itemvalue="Python.1912_연속합" />
-        <item itemvalue="Python.1389_케빈 베이컨의 6단계 법칙" />
-        <item itemvalue="Python.1026_유기농 배추" />
-        <item itemvalue="Python.1003_피보나치 함수" />
+        <item itemvalue="Python.10953_A+B-6" />
+        <item itemvalue="Python.10952_A+B-5" />
+        <item itemvalue="Python.10951_A+B-4" />
+        <item itemvalue="Python.10950_A+B-3" />
+        <item itemvalue="Python.2588_A+B -2" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +266,13 @@
       <workItem from="1672036626613" duration="45890000" />
       <workItem from="1672277125150" duration="5433000" />
       <workItem from="1672683190186" duration="2345000" />
-      <workItem from="1672967262875" duration="3157000" />
+      <workItem from="1672967262875" duration="4878000" />
+      <workItem from="1673111048498" duration="155000" />
+      <workItem from="1673721332408" duration="1234000" />
+      <workItem from="1673879285862" duration="1711000" />
+      <workItem from="1674849976230" duration="4422000" />
+      <workItem from="1682157781274" duration="6000" />
+      <workItem from="1685273482010" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -293,12 +351,13 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$2577__.coverage" NAME="2577_숫자의 개수 커버리지 결과" MODIFIED="1671675998159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
+    <SUITE FILE_PATH="coverage/Algorithm$10952_A_B_5.coverage" NAME="10952_A+B-5 커버리지 결과" MODIFIED="1685275416794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve17.coverage" NAME="Solve17 Coverage Results" MODIFIED="1654153461698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2108_.coverage" NAME="2108_통계학 커버리지 결과" MODIFIED="1672166394567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve11.coverage" NAME="Solve11 Coverage Results" MODIFIED="1654066111283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve20.coverage" NAME="Solve20 Coverage Results" MODIFIED="1654227687147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1655__.coverage" NAME="1655_가운데를 말해요 커버리지 결과" MODIFIED="1671383315076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DataStructure" />
-    <SUITE FILE_PATH="coverage/Algorithm$2748___2.coverage" NAME="2748_피보나치 수 2 커버리지 결과" MODIFIED="1672970415042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/Algorithm$2748___2.coverage" NAME="2748_피보나치 수 2 커버리지 결과" MODIFIED="1672970458769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
     <SUITE FILE_PATH="coverage/Algorithm$3052_.coverage" NAME="3052_나머지 커버리지 결과" MODIFIED="1671678946524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve45.coverage" NAME="Solve45 Coverage Results" MODIFIED="1655035449599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve4_pv.coverage" NAME="Solve4.pv Coverage Results" MODIFIED="1654026711898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
@@ -309,6 +368,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$2021_kakao__.coverage" NAME="2021 kakao 순위 검색 Coverage Results" MODIFIED="1656076410357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve21.coverage" NAME="Solve21 Coverage Results" MODIFIED="1654228270997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$10828_.coverage" NAME="10828_스택 커버리지 결과" MODIFIED="1672168485044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
+    <SUITE FILE_PATH="coverage/Algorithm$10951_A_B_4.coverage" NAME="10951_A+B-4 커버리지 결과" MODIFIED="1685274827926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$2018_kakao__.coverage" NAME="2018 kakao 뉴스 클러스팅 Coverage Results" MODIFIED="1655848450536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve1.coverage" NAME="Solve1 Coverage Results" MODIFIED="1654019108959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve7.coverage" NAME="Solve7 Coverage Results" MODIFIED="1654030128698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
@@ -345,6 +405,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$2562_.coverage" NAME="2562_최댓값 커버리지 결과" MODIFIED="1671675486820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$1018___.coverage" NAME="1018_체스판 다시 칠하기 커버리지 결과" MODIFIED="1671912114519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="없는 숫자 더하기 Coverage Results" MODIFIED="1655662766130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$da.coverage" NAME="da 커버리지 결과" MODIFIED="1673882125781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve36.coverage" NAME="Solve36 Coverage Results" MODIFIED="1654506544631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$x___n_.coverage" NAME="x만큼 간격이 있는 n개의 숫자 Coverage Results" MODIFIED="1655062063413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$7569_.coverage" NAME="7569_토마토 커버리지 결과" MODIFIED="1671488412179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
@@ -357,6 +418,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve_33.coverage" NAME="Solve 33 Coverage Results" MODIFIED="1654503545538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve47.coverage" NAME="Solve47 Coverage Results" MODIFIED="1655036099704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2675___.coverage" NAME="2675_문자열 반복&quot; 커버리지 결과" MODIFIED="1671676613675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
+    <SUITE FILE_PATH="coverage/Algorithm$10950_A_B_3.coverage" NAME="10950_A+B-3 커버리지 결과" MODIFIED="1685273896049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$1436__.coverage" NAME="1436_영화감독 숌 커버리지 결과" MODIFIED="1672024276581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve53.coverage" NAME="Solve53 Coverage Results" MODIFIED="1655057223278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Slove42.coverage" NAME="Slove42 Coverage Results" MODIFIED="1654591185312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
@@ -376,6 +438,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$10845_.coverage" NAME="10845_큐 커버리지 결과" MODIFIED="1672191937300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$2573_.coverage" NAME="2573_빙산 커버리지 결과" MODIFIED="1671636902825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$2020_kakao__.coverage" NAME="2020 kakao 괄호 변환 Coverage Results" MODIFIED="1655848553415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
+    <SUITE FILE_PATH="coverage/Algorithm$10808__.coverage" NAME="10808_알파벳 개수 커버리지 결과" MODIFIED="1674850752223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
     <SUITE FILE_PATH="coverage/Algorithm$1912_.coverage" NAME="1912_연속합 커버리지 결과" MODIFIED="1672969276203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
     <SUITE FILE_PATH="coverage/Algorithm$2164_2.coverage" NAME="2164_카드2 커버리지 결과" MODIFIED="1672167362661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve15.coverage" NAME="Solve15 Coverage Results" MODIFIED="1654127109979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
@@ -393,10 +456,13 @@
     <SUITE FILE_PATH="coverage/Algorithm$1978__.coverage" NAME="1978_소수 찾기 커버리지 결과" MODIFIED="1672160776103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Sovle22.coverage" NAME="Sovle22 Coverage Results" MODIFIED="1654229216485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve24.coverage" NAME="Solve24 Coverage Results" MODIFIED="1654231112611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$1475_.coverage" NAME="1475_방번호 커버리지 결과" MODIFIED="1674854854197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve41.coverage" NAME="Solve41 Coverage Results" MODIFIED="1654572971627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve18.coverage" NAME="Solve18 Coverage Results" MODIFIED="1654156076766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$10953_A_B_6.coverage" NAME="10953_A+B-6 커버리지 결과" MODIFIED="1685275637551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1666273406581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve35.coverage" NAME="Solve35 Coverage Results" MODIFIED="1654505997353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$2588_A_B__2.coverage" NAME="2588_A+B -2 커버리지 결과" MODIFIED="1685273710639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$2908_.coverage" NAME="2908_상수 커버리지 결과" MODIFIED="1671677263589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve3.coverage" NAME="Solve3 Coverage Results" MODIFIED="1654026706511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve30.coverage" NAME="Solve30 Coverage Results" MODIFIED="1654286038567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
