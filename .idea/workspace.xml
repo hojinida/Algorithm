@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/Baekjoon/io/2588_A+B -2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BakingDog/Array/10808_알파벳 개수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BakingDog/Array/1475_방번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Baekjoon/io/11021_A+B-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/bruteForce/15686_치킨배달.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/BakingDog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/ada.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10950_A+B-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10951_A+B-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10952_A+B-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/io/10953_A+B-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/cache-v2-12b86e40acdfdb3e3e4a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-0b7913b20b3f28c149ee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3add76adb2a065183d78.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/index-2023-01-09T01-20-57-0391.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-BakingDog-Debug-85f7c696b8618312e281.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-add-Debug-efd689f1fb61d539261c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/target-main-Debug-93cffb76f9aead4812a3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d1fec8847d7c587f39f7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/.ninja_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/BakingDog" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/BakingDog.dir/ada.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/BakingDog.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/add.dir/add.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/add.dir/giftCollection.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/add" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/build.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BakingDog/giftCollection.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +44,7 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10953_A+B-6">
+  <component name="RunManager" selected="Python.11021_A+B-7">
     <configuration name="10950_A+B-3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2588_A+B -2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11021_A+B-7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/2588_A+B -2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/11021_A+B-7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11021_A+B-7" />
         <item itemvalue="Python.10953_A+B-6" />
         <item itemvalue="Python.10952_A+B-5" />
         <item itemvalue="Python.10951_A+B-4" />
         <item itemvalue="Python.10950_A+B-3" />
-        <item itemvalue="Python.2588_A+B -2" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +220,7 @@
       <workItem from="1673879285862" duration="1711000" />
       <workItem from="1674849976230" duration="4422000" />
       <workItem from="1682157781274" duration="6000" />
-      <workItem from="1685273482010" duration="2170000" />
+      <workItem from="1685273482010" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -423,6 +371,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve53.coverage" NAME="Solve53 Coverage Results" MODIFIED="1655057223278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Slove42.coverage" NAME="Slove42 Coverage Results" MODIFIED="1654591185312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1181__.coverage" NAME="1181_단어 정렬 커버리지 결과" MODIFIED="1671913378960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
+    <SUITE FILE_PATH="coverage/Algorithm$11021_A_B_7.coverage" NAME="11021_A+B-7 커버리지 결과" MODIFIED="1685276471982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve14.coverage" NAME="Solve14 Coverage Results" MODIFIED="1654120491276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve51.coverage" NAME="Solve51 Coverage Results" MODIFIED="1655046791682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$124__.coverage" NAME="124 나라의 숫자 Coverage Results" MODIFIED="1655313716520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
