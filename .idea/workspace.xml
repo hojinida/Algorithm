@@ -41,7 +41,7 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10818_최소 최대">
+  <component name="RunManager" selected="Python.2438_별 찍기-1">
     <configuration name="10818_최소 최대" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +86,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2438_별 찍기-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/2438_별 찍기-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2739_구구단" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,28 +122,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/2739_구구단.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2741_N 찍기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/2741_N 찍기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2438_별 찍기-1" />
         <item itemvalue="Python.10818_최소 최대" />
         <item itemvalue="Python.8393_합" />
         <item itemvalue="Python.1924_2007년" />
         <item itemvalue="Python.2739_구구단" />
-        <item itemvalue="Python.2741_N 찍기" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,7 @@
       <workItem from="1673879285862" duration="1711000" />
       <workItem from="1674849976230" duration="4422000" />
       <workItem from="1682157781274" duration="6000" />
-      <workItem from="1685273482010" duration="7372000" />
+      <workItem from="1685273482010" duration="7675000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -391,6 +391,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$2020_kakao__.coverage" NAME="2020 kakao 괄호 변환 Coverage Results" MODIFIED="1655848553415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$10808__.coverage" NAME="10808_알파벳 개수 커버리지 결과" MODIFIED="1674850752223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
     <SUITE FILE_PATH="coverage/Algorithm$8393_.coverage" NAME="8393_합 커버리지 결과" MODIFIED="1685282749655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
+    <SUITE FILE_PATH="coverage/Algorithm$10818__.coverage" NAME="10818_최소 최대 커버리지 결과" MODIFIED="1685283043041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/io" />
     <SUITE FILE_PATH="coverage/Algorithm$1912_.coverage" NAME="1912_연속합 커버리지 결과" MODIFIED="1672969276203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
     <SUITE FILE_PATH="coverage/Algorithm$2164_2.coverage" NAME="2164_카드2 커버리지 결과" MODIFIED="1672167362661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve15.coverage" NAME="Solve15 Coverage Results" MODIFIED="1654127109979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
