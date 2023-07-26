@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/BakingDog/Array/2577_숫자의 개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Array/3273_두 수의 합.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +44,7 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2577_숫자의 개수">
-    <configuration name="10818_최소 최대" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/io" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/io/10818_최소 최대.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3273_두 수의 합">
     <configuration name="1543_문서 검색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,13 +133,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3273_두 수의 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BakingDog/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/Array/3273_두 수의 합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3273_두 수의 합" />
         <item itemvalue="Python.2577_숫자의 개수" />
         <item itemvalue="Python.2941_python_장호진" />
         <item itemvalue="Python.1543_문서 검색" />
         <item itemvalue="Python.2438_별 찍기-1" />
-        <item itemvalue="Python.10818_최소 최대" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +223,7 @@
       <workItem from="1685273482010" duration="8949000" />
       <workItem from="1688232940204" duration="3125000" />
       <workItem from="1690161753186" duration="121000" />
-      <workItem from="1690187480121" duration="333000" />
+      <workItem from="1690187480121" duration="4296000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -372,6 +372,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$Solve9.coverage" NAME="Solve9 Coverage Results" MODIFIED="1654063150287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1920__.coverage" NAME="1920_수 찾기 커버리지 결과" MODIFIED="1672079591504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve12.coverage" NAME="Solve12 Coverage Results" MODIFIED="1654118094560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
+    <SUITE FILE_PATH="coverage/Algorithm$3273___.coverage" NAME="3273_두 수의 합 커버리지 결과" MODIFIED="1690337712919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve_33.coverage" NAME="Solve 33 Coverage Results" MODIFIED="1654503545538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve47.coverage" NAME="Solve47 Coverage Results" MODIFIED="1655036099704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2675___.coverage" NAME="2675_문자열 반복&quot; 커버리지 결과" MODIFIED="1671676613675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
