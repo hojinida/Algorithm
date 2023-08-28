@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/BakingDog/LinkedList/1406_에디터.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BakingDog/LinkedList/1406_에디터.py" beforeDir="false" afterPath="$PROJECT_DIR$/BakingDog/LinkedList/1406_에디터.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,10 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "hojinida",
     "last_opened_file_path": "/Users/hojin/Desktop/Study/Algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -230,7 +237,7 @@
       <workItem from="1688232940204" duration="3125000" />
       <workItem from="1690161753186" duration="121000" />
       <workItem from="1690187480121" duration="12359000" />
-      <workItem from="1692731183087" duration="248000" />
+      <workItem from="1692731183087" duration="3575000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -420,7 +427,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$1697_.coverage" NAME="1697_숨바꼭질 커버리지 결과" MODIFIED="1671527982220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$1654__.coverage" NAME="1654_랜선 자르기 커버리지 결과" MODIFIED="1672040845866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Sovle32.coverage" NAME="Sovle32 Coverage Results" MODIFIED="1654503538136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
-    <SUITE FILE_PATH="coverage/Algorithm$1406_.coverage" NAME="1406_에디터 커버리지 결과" MODIFIED="1690350499035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/LinkedList" />
+    <SUITE FILE_PATH="coverage/Algorithm$1406_.coverage" NAME="1406_에디터 Coverage Results" MODIFIED="1693246286222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/LinkedList" />
     <SUITE FILE_PATH="coverage/Algorithm$2021_kakao__.coverage" NAME="2021 kakao 순위 검색 Coverage Results" MODIFIED="1656076410357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 2" />
     <SUITE FILE_PATH="coverage/Algorithm$3273___.coverage" NAME="3273_두 수의 합 커버리지 결과" MODIFIED="1690338725863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
     <SUITE FILE_PATH="coverage/Algorithm$2468_.coverage" NAME="2468_안전영역 커버리지 결과" MODIFIED="1671553357876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
