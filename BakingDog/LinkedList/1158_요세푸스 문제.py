@@ -3,12 +3,12 @@ from collections import deque
 
 input = sys.stdin.readline
 
-n, k = map(int,input().split())
+n, k = map(int, input().split())
 
-right_stack = deque(range(n,0,-1))
-left_stack= deque()
+right_stack = deque(range(n, 0, -1))
+left_stack = deque()
 
-print('<',end='')
+print('<', end='')
 
 for i in range(n):
     for j in range(k):
@@ -17,4 +17,4 @@ for i in range(n):
             right_stack = deque.copy(left_stack)
             left_stack.clear()
         left_stack.append(right_stack.pop())
-    print(left_stack.pop(),end=', ') if i != n-1 else print(left_stack.pop(),end='>')
+    print(left_stack.pop(), end=', ') if i != n - 1 else print(left_stack.pop(), end='>')
