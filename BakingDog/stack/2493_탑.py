@@ -19,4 +19,3 @@ for index, d in enumerate(data):
 
 print(''.join(answer))
 
-
