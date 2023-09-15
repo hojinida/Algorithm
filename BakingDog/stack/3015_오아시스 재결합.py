@@ -15,7 +15,6 @@ for d in data:
         stack.pop()
     stack.append(d)
     answer += len(stack)-1
-
 print(answer)
 
 
