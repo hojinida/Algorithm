@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/BakingDog/Queue/2164_카드2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Deque/10866_덱.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
