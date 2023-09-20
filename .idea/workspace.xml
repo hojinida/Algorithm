@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/BakingDog/stack/6549_히스토그램에서 가장 큰 직사각형.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Deque/10866_덱.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "hojinida",
     "last_opened_file_path": "/Users/hojin/Desktop/Study/Algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,7 +57,29 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6549_히스토그램에서 가장 큰 직사각형">
+  <component name="RunManager" selected="Python.2164_카드2">
+    <configuration name="10845_큐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BakingDog/Queue" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/Queue/10845_큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="17298_오큰수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2493_탑" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2164_카드2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,12 +110,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BakingDog/stack" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BakingDog/Queue" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/stack/2493_탑.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/Queue/2164_카드2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,28 +138,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/stack/3015_오아시스 재결합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6198_옥상정원 꾸미기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BakingDog/stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/stack/6198_옥상정원 꾸미기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2164_카드2" />
+        <item itemvalue="Python.10845_큐" />
         <item itemvalue="Python.6549_히스토그램에서 가장 큰 직사각형" />
         <item itemvalue="Python.3015_오아시스 재결합" />
         <item itemvalue="Python.17298_오큰수" />
-        <item itemvalue="Python.6198_옥상정원 꾸미기" />
-        <item itemvalue="Python.2493_탑" />
       </list>
     </recent_temporary>
   </component>
@@ -316,17 +316,6 @@
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BakingDog/stack/6549_히스토그램에서 가장 큰 직사각형.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Algorithm$2606_.coverage" NAME="2606_바이러스 커버리지 결과" MODIFIED="1671453982498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve9.coverage" NAME="Solve9 Coverage Results" MODIFIED="1654063150287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
@@ -341,7 +330,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$2675___.coverage" NAME="2675_문자열 반복&quot; 커버리지 결과" MODIFIED="1671676613675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$14501_.coverage" NAME="14501_퇴사 커버리지 결과" MODIFIED="1671718555778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
     <SUITE FILE_PATH="coverage/Algorithm$__.coverage" NAME="없는 숫자 더하기 Coverage Results" MODIFIED="1655662766130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
-    <SUITE FILE_PATH="coverage/Algorithm$10845_.coverage" NAME="10845_큐 커버리지 결과" MODIFIED="1672191937300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
+    <SUITE FILE_PATH="coverage/Algorithm$10845_.coverage" NAME="10845_큐 Coverage Results" MODIFIED="1695018971899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Queue" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve54.coverage" NAME="Solve54 Coverage Results" MODIFIED="1655061658829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve12.coverage" NAME="Solve12 Coverage Results" MODIFIED="1654118094560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$2839__.coverage" NAME="2839_설탕 배달 커버리지 결과" MODIFIED="1672190502974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
@@ -363,7 +352,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$2667__.coverage" NAME="2667_단지번호 붙이기 커버리지 결과" MODIFIED="1671276314718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backjun" />
     <SUITE FILE_PATH="coverage/Algorithm$8958_OX.coverage" NAME="8958_OX퀴즈 커버리지 결과" MODIFIED="1671679785078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve19.coverage" NAME="Solve19 Coverage Results" MODIFIED="1654166282122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
-    <SUITE FILE_PATH="coverage/Algorithm$2164_2.coverage" NAME="2164_카드2 커버리지 결과" MODIFIED="1672167362661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
+    <SUITE FILE_PATH="coverage/Algorithm$2164_2.coverage" NAME="2164_카드2 Coverage Results" MODIFIED="1695019560204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Queue" />
     <SUITE FILE_PATH="coverage/Algorithm$da.coverage" NAME="da 커버리지 결과" MODIFIED="1673882125781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class1" />
     <SUITE FILE_PATH="coverage/Algorithm$2748___2.coverage" NAME="2748_피보나치 수 2 커버리지 결과" MODIFIED="1672970458769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/DynamicProgramming" />
     <SUITE FILE_PATH="coverage/Algorithm$1475_.coverage" NAME="1475_방번호 커버리지 결과" MODIFIED="1690346946725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Array" />
