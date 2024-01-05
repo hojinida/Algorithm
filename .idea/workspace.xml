@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dab66ace-c87a-43e2-a3fc-b399767103ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/BakingDog/Bfs/4179_불.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakingDog/Bfs/1697_숨바꼭질.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +57,8 @@
       <recent name="$PROJECT_DIR$/Baekjoon/DataStructure" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4179_불">
-    <configuration name="17391_무한부스터" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1697_숨바꼭질">
+    <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +71,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/Bfs/17391_무한부스터.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BakingDog/Bfs/1697_숨바꼭질.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1697_숨바꼭질" />
         <item itemvalue="Python.4179_불" />
         <item itemvalue="Python.7576_토마토" />
         <item itemvalue="Python.2178_미로 탐색" />
         <item itemvalue="Python.1926_그림" />
-        <item itemvalue="Python.17391_무한부스터" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +298,7 @@
       <workItem from="1700904490203" duration="1800000" />
       <workItem from="1703933859387" duration="10715000" />
       <workItem from="1703948071309" duration="505000" />
-      <workItem from="1704307770155" duration="11177000" />
+      <workItem from="1704307770155" duration="13026000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1654167288916</created>
@@ -387,6 +387,10 @@
           <url>file://$PROJECT_DIR$/BakingDog/Stack/9012_괄호.py</url>
           <line>7</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BakingDog/Bfs/1926_그림.py</url>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -516,7 +520,7 @@
     <SUITE FILE_PATH="coverage/Algorithm$5397_.coverage" NAME="5397_키로거 Coverage Results" MODIFIED="1693331929620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/LinkedList" />
     <SUITE FILE_PATH="coverage/Algorithm$Solve53.coverage" NAME="Solve53 Coverage Results" MODIFIED="1655057223278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1018___.coverage" NAME="1018_체스판 다시 칠하기 커버리지 결과" MODIFIED="1671912114519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
-    <SUITE FILE_PATH="coverage/Algorithm$1697_.coverage" NAME="1697_숨바꼭질 커버리지 결과" MODIFIED="1671527982220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/bfs, dfs" />
+    <SUITE FILE_PATH="coverage/Algorithm$1697_.coverage" NAME="1697_숨바꼭질 커버리지 결과" MODIFIED="1704464204057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/Bfs" />
     <SUITE FILE_PATH="coverage/Algorithm$1654__.coverage" NAME="1654_랜선 자르기 커버리지 결과" MODIFIED="1672040845866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Baekjoon/class2" />
     <SUITE FILE_PATH="coverage/Algorithm$Sovle32.coverage" NAME="Sovle32 Coverage Results" MODIFIED="1654503538136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level 1" />
     <SUITE FILE_PATH="coverage/Algorithm$1406_.coverage" NAME="1406_에디터 Coverage Results" MODIFIED="1693246286222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BakingDog/LinkedList" />
