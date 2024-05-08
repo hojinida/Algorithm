@@ -14,7 +14,6 @@ class Solution:
                 while i in q:
                     q.popleft()
                 q.append(i)
-        print(q)
         if len(q) > answer:
             answer = len(q)
         return answer
