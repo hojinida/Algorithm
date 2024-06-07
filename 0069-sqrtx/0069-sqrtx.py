@@ -8,5 +8,9 @@ class Solution:
                 return index
             elif sqrt > x:
                 return index -1 
-            index+=1
+            
+            if sqrt*2 < x:
+                index+=2
+            else:
+                index+=1
 
