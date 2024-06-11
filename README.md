@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/hojinida/Algorithm/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hojinida/Algorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hojinida/Algorithm/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 # Two Pointers
 |  |
 | ------- |
@@ -51,3 +52,19 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
+# Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+# Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
