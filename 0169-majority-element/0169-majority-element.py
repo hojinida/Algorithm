@@ -8,4 +8,8 @@ class Solution:
             else:
                 pattern[i] = 1
 
-        return max(pattern,key = pattern.get)
+        n = len(nums) // 2
+        for key,value in pattern.items():
+            if value > n:
+                return key
+        return 0
