@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/hojinida/Algorithm/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/hojinida/Algorithm/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+| [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
 # Two Pointers
 |  |
 | ------- |
@@ -68,3 +69,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+# Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
