@@ -1,18 +1,9 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = re.sub(r'[^a-zA-Z0-9]', '', s)
-    
-        s = "".join(i.lower() if i.isupper() else i for i in s)
-        
-        ls = len(s)
-        mid = ls//2
-        if ls == 1:
-            return True
-        if ls%2 == 0:
-            if s[0:mid] == s[:mid-1:-1]:
-                return True
-        else:
-            if s[0:mid] == s[:mid:-1]:
-                return True
+        s = [c.lower() for c in s if c.isalnum()]
 
-        return False
+        for i in range(len(s)//2):
+            if s[i] != s[~i]:
+                return False
+    
+        return True
