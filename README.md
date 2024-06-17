@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hojinida/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hojinida/Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/hojinida/Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/hojinida/Algorithm/tree/master/1894-merge-strings-alternately) |
 # String
@@ -35,6 +36,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hojinida/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/hojinida/Algorithm/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/hojinida/Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/hojinida/Algorithm/tree/master/1894-merge-strings-alternately) |
