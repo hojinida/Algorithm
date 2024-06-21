@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
+| [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
 # Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/hojinida/Algorithm/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/hojinida/Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/hojinida/Algorithm/tree/master/1894-merge-strings-alternately) |
 # Binary Search
 |  |
@@ -66,6 +68,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
+| [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
 # Divide and Conquer
 |  |
 | ------- |
