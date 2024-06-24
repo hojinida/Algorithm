@@ -28,6 +28,7 @@
 | [0027-remove-element](https://github.com/hojinida/Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/hojinida/Algorithm/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hojinida/Algorithm/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/hojinida/Algorithm/tree/master/0408-valid-word-abbreviation) |
@@ -60,6 +61,7 @@
 | [0066-plus-one](https://github.com/hojinida/Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hojinida/Algorithm/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/hojinida/Algorithm/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/hojinida/Algorithm/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/hojinida/Algorithm/tree/master/2383-add-two-integers) |
 # Bit Manipulation
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hojinida/Algorithm/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
