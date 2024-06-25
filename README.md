@@ -90,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0359-logger-rate-limiter](https://github.com/hojinida/Algorithm/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
@@ -148,10 +149,12 @@
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/hojinida/Algorithm/tree/master/0359-logger-rate-limiter) |
 # Data Stream
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/hojinida/Algorithm/tree/master/0359-logger-rate-limiter) |
 # Linked List
 |  |
 | ------- |
