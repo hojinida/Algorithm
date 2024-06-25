@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Divide and Conquer
 |  |
 | ------- |
