@@ -67,12 +67,14 @@
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/hojinida/Algorithm/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/hojinida/Algorithm/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/hojinida/Algorithm/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/hojinida/Algorithm/tree/master/2383-add-two-integers) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 # Simulation
 |  |
@@ -158,3 +160,4 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
