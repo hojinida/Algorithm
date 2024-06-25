@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hojinida/Algorithm/tree/master/0283-move-zeroes) |
+| [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
@@ -132,4 +133,13 @@
 # Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
 | [0387-first-unique-character-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+# Design
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
