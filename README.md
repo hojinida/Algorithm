@@ -29,6 +29,7 @@
 | [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hojinida/Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 # Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hojinida/Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/hojinida/Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 # Breadth-First Search
 |  |
 | ------- |
