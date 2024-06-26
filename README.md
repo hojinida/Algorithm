@@ -26,6 +26,7 @@
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
 | [1019-squares-of-a-sorted-array](https://github.com/hojinida/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Two Pointers
@@ -111,6 +112,7 @@
 | [0409-longest-palindrome](https://github.com/hojinida/Algorithm/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Divide and Conquer
@@ -128,6 +130,7 @@
 | [0455-assign-cookies](https://github.com/hojinida/Algorithm/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/hojinida/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 # Counting
 |  |
@@ -199,3 +202,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/hojinida/Algorithm/tree/master/0463-island-perimeter) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1074-high-five](https://github.com/hojinida/Algorithm/tree/master/1074-high-five) |
