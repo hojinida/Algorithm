@@ -2,16 +2,17 @@ class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
         pattern = {}
 
+        maxFreq = 0
         for i in nums:
             if i not in pattern:
                 pattern[i] = 0
-            pattern[i]+=1
-        
-        maxFreq = max(pattern.values())
+            pattern[i] += 1
+            maxFreq = max(maxFreq, pattern[i])
 
-        answer =0
-        for num,freq in pattern.items():
+        # 최대 빈도와 일치하는 요소의 빈도 합산
+        answer = 0
+        for num, freq in pattern.items():
             if maxFreq == freq:
-                answer += maxFreq
+                answer += freq
 
         return answer
