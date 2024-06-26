@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/hojinida/Algorithm/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hojinida/Algorithm/tree/master/0283-move-zeroes) |
 | [0346-moving-average-from-data-stream](https://github.com/hojinida/Algorithm/tree/master/0346-moving-average-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@
 | [0069-sqrtx](https://github.com/hojinida/Algorithm/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/hojinida/Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/hojinida/Algorithm/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/hojinida/Algorithm/tree/master/0415-add-strings) |
 | [2383-add-two-integers](https://github.com/hojinida/Algorithm/tree/master/2383-add-two-integers) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/hojinida/Algorithm/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 # Simulation
 |  |
@@ -99,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/hojinida/Algorithm/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/hojinida/Algorithm/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -116,6 +120,7 @@
 | [0169-majority-element](https://github.com/hojinida/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hojinida/Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/hojinida/Algorithm/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
@@ -148,6 +153,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0975-range-sum-of-bst](https://github.com/hojinida/Algorithm/tree/master/0975-range-sum-of-bst) |
 # Binary Tree
