@@ -22,6 +22,7 @@
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Two Pointers
 |  |
@@ -96,6 +97,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/hojinida/Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
 # Divide and Conquer
 |  |
@@ -109,6 +111,7 @@
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
+| [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 # Counting
 |  |
 | ------- |
@@ -166,3 +169,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/hojinida/Algorithm/tree/master/0231-power-of-two) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
