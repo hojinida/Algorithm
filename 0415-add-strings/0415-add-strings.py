@@ -15,7 +15,7 @@ class Solution:
 
         carry  = 0
         answer = []
-        
+
         while pmin >= 0:
             value = plus(minNum[pmin], maxNum[pmax]) + carry
             carry = value // 10
@@ -29,7 +29,6 @@ class Solution:
             answer.append(str(value % 10))
             pmax -= 1
 
-        # If there is a carry left
         if carry:
             answer.append(str(carry))
 
