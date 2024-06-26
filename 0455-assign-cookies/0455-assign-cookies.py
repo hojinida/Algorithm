@@ -10,5 +10,7 @@ class Solution:
                     answer+=1
                     g.remove(j)
                     break
+            if len(g) == 0:
+                break
         
         return answer
