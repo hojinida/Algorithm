@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/hojinida/Algorithm/tree/master/0661-image-smoother) |
+| [1019-squares-of-a-sorted-array](https://github.com/hojinida/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/hojinida/Algorithm/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/hojinida/Algorithm/tree/master/1319-unique-number-of-occurrences) |
@@ -37,6 +38,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/hojinida/Algorithm/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/hojinida/Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/hojinida/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/hojinida/Algorithm/tree/master/1894-merge-strings-alternately) |
 # String
 |  |
@@ -111,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/hojinida/Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/hojinida/Algorithm/tree/master/0645-set-mismatch) |
+| [1019-squares-of-a-sorted-array](https://github.com/hojinida/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/hojinida/Algorithm/tree/master/1217-relative-sort-array) |
 # Counting
 |  |
