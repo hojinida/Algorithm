@@ -1,10 +1,16 @@
 class Solution:
-    def specialArray(self, nums: List[int]) -> int:
+     def specialArray(self, nums: List[int]) -> int:
         nums.sort(reverse=True)
         
-        for i in range(len(nums)):
-            if nums[i] >= i + 1:
-                if i == len(nums) - 1 or nums[i + 1] < i + 1:
-                    return i + 1
+        left, right = 0, len(nums)
+        
+        while left < right:
+            mid = (left + right) // 2
+            if nums[mid] >= mid + 1:
+                if mid == len(nums) - 1 or nums[mid + 1] < mid + 1:
+                    return mid + 1
+                left = mid + 1
+            else:
+                right = mid
         
         return -1
