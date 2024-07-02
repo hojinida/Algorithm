@@ -15,6 +15,7 @@ class Solution:
             p = q.popleft()
             if not p[0]:
                 break
+                
             if p[1] not in result:
                 result[p[1]] = []
             result[p[1]].append(p[0].val)
