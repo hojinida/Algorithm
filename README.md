@@ -216,6 +216,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -229,6 +230,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -236,6 +238,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -281,6 +284,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
