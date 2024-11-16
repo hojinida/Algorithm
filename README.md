@@ -222,6 +222,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 ## Binary Search
 |  |
 | ------- |
@@ -304,4 +305,8 @@
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
