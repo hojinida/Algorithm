@@ -327,6 +327,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hojinida/Algorithm/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -347,4 +348,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hojinida/Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
