@@ -216,6 +216,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hojinida/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
@@ -243,6 +244,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hojinida/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
