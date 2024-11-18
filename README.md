@@ -234,6 +234,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -244,6 +245,7 @@
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -293,6 +295,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
