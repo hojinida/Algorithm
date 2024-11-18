@@ -19,13 +19,15 @@ class Codec:
         """
         splitArray = s.split(":",1)
         position = splitArray[0].split(',')
-        array = "".join(splitArray[1:])
-    
+        array = splitArray[1]
+
         result = []
         beforePoint = 0
+        
         for i in position:
-            result.append(array[beforePoint:int(i)])
-            beforePoint = int(i)
+            i = int(i)
+            result.append(array[beforePoint:i])
+            beforePoint = i
     
         return result
 
