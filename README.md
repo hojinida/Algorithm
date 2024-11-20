@@ -223,6 +223,7 @@
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hojinida/Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/hojinida/Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -232,6 +233,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
@@ -240,6 +242,7 @@
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -252,6 +255,7 @@
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -328,6 +332,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -341,6 +346,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hojinida/Algorithm/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
