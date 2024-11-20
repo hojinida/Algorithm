@@ -5,13 +5,13 @@ class Solution:
                 result.append(list(current))
                 return
             if target < 0:
-                return 
+                return
             
-            for i in range(start, len(candidates)):
-                if candidates[i] > target:
-                    break
+            for i in range(start,len(candidates)):
+                if target - candidates[i] < 0:
+                    return
                 current.append(candidates[i])
-                back(current, i, target - candidates[i])
+                back(current,i,target - candidates[i])
                 current.pop()
 
         result = []
