@@ -220,6 +220,7 @@
 | [0039-combination-sum](https://github.com/hojinida/Algorithm/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hojinida/Algorithm/tree/master/0238-product-of-array-except-self) |
@@ -252,6 +253,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hojinida/Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
@@ -322,6 +324,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
