@@ -1,9 +1,6 @@
-from collections import deque
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        pattern = [(0,1),(0,-1),(1,0),(-1,0)]
-        row = len(board)
-        col = len(board[0])
+        row,col  = len(board), len(board[0])
         wordLen = len(word)-1
 
         def backtracking(x,y,target):
@@ -16,7 +13,7 @@ class Solution:
             temp = board[x][y]
             board[x][y] = "#"
 
-            for px, py in pattern:
+            for px, py in [(0,1),(0,-1),(1,0),(-1,0)]:
                 dx, dy = x + px, y + py
                 if 0 <= dx < row and 0 <= dy < col and board[dx][dy] != "#":
                     if backtracking(dx, dy, target + 1):
