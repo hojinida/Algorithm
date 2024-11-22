@@ -1,12 +1,20 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        answer = 0
-        value = 1000000
+        minIndex = 0
+        maxIndex = 0
 
-        for i in prices:
-            if value > i:
-                value = i
-            elif answer < (i-value):
-                answer = i-value
-        
+        answer = 0
+        for i in range(1,len(prices)):
+            if minIndex < maxIndex:
+                answer = max(answer,(prices[maxIndex] - prices[minIndex]))
+            else:
+                maxIndex = minIndex
+
+            if prices[minIndex] > prices[i]:
+                minIndex = i
+            if prices[maxIndex] < prices[i]:
+                maxIndex = i
+
+        if minIndex < maxIndex:
+            answer = max(answer,(prices[maxIndex] - prices[minIndex]))
         return answer
