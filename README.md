@@ -317,6 +317,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/hojinida/Algorithm/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
@@ -329,6 +330,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Union Find
