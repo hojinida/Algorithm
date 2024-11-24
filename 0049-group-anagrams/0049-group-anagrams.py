@@ -1,12 +1,13 @@
-from collections import Counter
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         pattern = defaultdict(list)
 
         for s in strs:
-            count = frozenset(Counter(s).items())
-            pattern[count].append(s)
+            sorted_key = ''.join(sorted(s))
+            pattern[sorted_key].append(s)
 
-        return [i for i in pattern.values()]
+        return [group for group in pattern.values()]
         
             
