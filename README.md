@@ -310,6 +310,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hojinida/Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -427,4 +428,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hojinida/Algorithm/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
