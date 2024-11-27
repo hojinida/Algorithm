@@ -6,19 +6,16 @@ class Solution:
         pattern = set()
 
         for i in range(len(s)):
-            if s[i] not in pattern:
-                q.append(s[i])
-                pattern.add(s[i])
-            else:
+            if s[i] in pattern:
                 maxLen = max(maxLen,len(q))
                 while q:
                     poped = q.popleft()
                     pattern.remove(poped)
                     if poped == s[i]:
                         break
-                    
-                q.append(s[i])
-                pattern.add(s[i])
+   
+            q.append(s[i])
+            pattern.add(s[i])
 
         maxLen = max(maxLen,len(q))
 
