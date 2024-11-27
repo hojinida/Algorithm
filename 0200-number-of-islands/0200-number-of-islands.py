@@ -1,30 +1,29 @@
 from collections import deque
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
-
-        rows, cols = len(grid), len(grid[0])
+        q = deque()
         visited = set()
-        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
-        num_islands = 0
+        rows = len(grid)
+        cols = len(grid[0])
 
-        def bfs(r, c):
-            q = deque([(r, c)])
-            visited.add((r, c))
-            while q:
-                row, col = q.popleft()
-                for dr, dc in directions:
-                    nr, nc = row + dr, col + dc
-                    if 0 <= nr < rows and 0 <= nc < cols and (nr, nc) not in visited and grid[nr][nc] == "1":
-                        q.append((nr, nc))
-                        visited.add((nr, nc))
+        answer = 0
 
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == "1" and (r, c) not in visited:
-                    bfs(r, c)
-                    num_islands += 1
+        for i in range(rows):
+            for j in range(cols):
+                if grid[i][j] == "1" and (i,j) not in visited:
+                    q.append((i,j))
+                    visited.add((i,j))
+                    answer+=1
+                    while q:
+                        (x,y) = q.popleft()
+                        
+                        for px,py in [(0,1),(0,-1),(1,0),(-1,0)]:
+                            dx,dy = x+px, y+py
+                            if 0<=dx< rows and 0<=dy<cols and (dx,dy) not in visited:
+                                if grid[dx][dy] == "1":
+                                    visited.add((dx,dy))
+                                    q.append((dx,dy))
+            
 
-        return num_islands
+        return answer          
 
