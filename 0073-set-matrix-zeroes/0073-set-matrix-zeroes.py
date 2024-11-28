@@ -3,30 +3,34 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        stack = []
+        rows, cols = len(matrix), len(matrix[0])
+        first_row, first_col = False, False
 
-        rows = len(matrix)
-        cols = len(matrix[0])
+        # 첫 번째 행과 열에 0이 있는지 확인
         for i in range(rows):
-            for j in range(cols):
-                if matrix[i][j] == 0:
-                    stack.append((i,j))
+            if matrix[i][0] == 0:
+                first_col = True
+        for j in range(cols):
+            if matrix[0][j] == 0:
+                first_row = True
 
-        for x,y in stack:
-            left = [x,y-1]
-            right = [x,y+1]
-            up = [x-1,y]
-            down = [x+1,y]
-            while left[1] >=0 or right[1] < cols or up[0] >=0 or down[0] < rows:
-                if left[1] >= 0:
-                    matrix[left[0]][left[1]] = 0
-                    left[1]-=1
-                if right[1] < cols:
-                    matrix[right[0]][right[1]] = 0
-                    right[1] +=1
-                if up[0] >= 0:
-                    matrix[up[0]][up[1]] = 0
-                    up[0]-=1
-                if down[0] <rows:
-                    matrix[down[0]][down[1]] = 0
-                    down[0]+=1
+        # 첫 번째 행과 열을 사용해 0 위치를 표시
+        for i in range(1, rows):
+            for j in range(1, cols):
+                if matrix[i][j] == 0:
+                    matrix[i][0] = 0
+                    matrix[0][j] = 0
+
+        # 표시된 위치에 따라 행과 열을 0으로 설정
+        for i in range(1, rows):
+            for j in range(1, cols):
+                if matrix[i][0] == 0 or matrix[0][j] == 0:
+                    matrix[i][j] = 0
+
+        # 첫 번째 행과 열 처리
+        if first_row:
+            for j in range(cols):
+                matrix[0][j] = 0
+        if first_col:
+            for i in range(rows):
+                matrix[i][0] = 0
