@@ -224,6 +224,7 @@
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/hojinida/Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hojinida/Algorithm/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hojinida/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
@@ -262,6 +263,7 @@
 | [0001-two-sum](https://github.com/hojinida/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hojinida/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/hojinida/Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/hojinida/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
@@ -355,6 +357,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/hojinida/Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hojinida/Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 ## Math
