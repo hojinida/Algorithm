@@ -360,6 +360,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hojinida/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
@@ -403,6 +404,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/hojinida/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hojinida/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/hojinida/Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -435,4 +437,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hojinida/Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
