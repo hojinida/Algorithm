@@ -3,22 +3,19 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        tl = len(nums1)-1
-        mp  =  m-1
-        np  =  n-1
-        while mp != -1 and np != -1:
-            if nums1[mp] > nums2[np]:
-                nums1[tl] = nums1[mp]
-                mp-=1
+        right = len(nums1) - 1 
+        left = m - 1          
+        index = n - 1     
+
+        while index >= 0:  
+            if left >= 0 and nums1[left] > nums2[index]:
+                nums1[right] = nums1[left]
+                left -= 1
             else:
-                nums1[tl] = nums2[np]
-                np-=1
-            tl-=1
-        
-        while np >= 0:
-            nums1[tl] = nums2[np]
-            np -= 1
-            tl -= 1
+                nums1[right] = nums2[index]
+                index -= 1
+            right -= 1
 
         
+            
         
