@@ -240,6 +240,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +291,7 @@
 | [0125-valid-palindrome](https://github.com/hojinida/Algorithm/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
 | ------- |
