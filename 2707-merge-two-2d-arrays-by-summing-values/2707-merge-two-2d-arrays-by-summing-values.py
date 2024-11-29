@@ -1,15 +1,26 @@
 class Solution:
     def mergeArrays(self, nums1: List[List[int]], nums2: List[List[int]]) -> List[List[int]]:
-        pattern = {}
-        
-        for id,value in nums1+nums2:
-            if id not in pattern:
-                pattern[id] = 0
-            pattern[id] += value
-
         answer = []
+        i, j = 0, 0
+        m, n = len(nums1), len(nums2)
 
-        for id,value in sorted(pattern.items(),key = lambda x: x[0]):
-            answer.append([id,value])
+        while i < m and j < n:
+            if nums1[i][0] == nums2[j][0]:
+                answer.append([nums1[i][0],nums1[i][1]+nums2[j][1]])
+                i+=1
+                j+=1
+            elif nums1[i][0] < nums2[j][0]:
+                answer.append(nums1[i])
+                i+=1
+            else:
+                answer.append(nums2[j])
+                j+=1
         
+        while i < m:
+            answer.append(nums1[i])
+            i+=1
+        while j<n:
+            answer.append(nums2[j])
+            j+=1
+
         return answer
