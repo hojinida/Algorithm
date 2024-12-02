@@ -245,6 +245,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -384,6 +385,7 @@
 | [0079-word-search](https://github.com/hojinida/Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
