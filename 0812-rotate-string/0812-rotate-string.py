@@ -1,11 +1,8 @@
-from collections import deque
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        s = deque(s)
-
-        for _ in range(len(s)):
-            if "".join(s) == goal:
+        length = len(s)
+        for i in range(length):
+            if s[i:]+s[0:i] == goal:
                 return True
-            s.append(s.popleft())
             
         return False
