@@ -361,6 +361,7 @@
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -469,4 +470,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/hojinida/Algorithm/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
