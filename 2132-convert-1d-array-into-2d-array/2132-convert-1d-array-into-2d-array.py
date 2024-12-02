@@ -2,4 +2,13 @@ class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
         if len(original) != m * n:
             return []
-        return [original[i * n:(i + 1) * n] for i in range(m)]
+        answer = []
+        count = 0
+        for row in range(m):
+            temp = []
+            for col in range(n):
+                temp.append(original[(row*n)+col])
+                count+=1
+            answer.append(temp)
+        
+        return answer 
