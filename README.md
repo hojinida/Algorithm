@@ -365,12 +365,14 @@
 | [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
