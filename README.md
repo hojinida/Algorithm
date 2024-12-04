@@ -247,6 +247,7 @@
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
@@ -272,6 +273,7 @@
 | [1306-minimum-absolute-difference](https://github.com/hojinida/Algorithm/tree/master/1306-minimum-absolute-difference) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -473,6 +475,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hojinida/Algorithm/tree/master/0011-container-with-most-water) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Recursion
 |  |
 | ------- |
@@ -486,4 +489,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
