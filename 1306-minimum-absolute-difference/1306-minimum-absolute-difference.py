@@ -1,19 +1,15 @@
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
-        answer = set()
-        pattern = {i for i in arr}
-        
         arr.sort()
-        minValue = float('inf')
-        for i in range(len(arr)-1):
-            if abs(arr[i] - arr[i+1]) < minValue:
-                minValue = abs(arr[i] - arr[i+1])
-        
-        for i in pattern:
-            if i+minValue in pattern:
-                answer.add((i,i+minValue))
-            elif i-minValue in pattern:
-                answer.add((i-minValue,i))
-        
-        return sorted(answer)
-            
+        min_diff = float('inf')
+        result = []
+
+        for i in range(len(arr) - 1):
+            diff = arr[i + 1] - arr[i]
+            if diff < min_diff:
+                min_diff = diff
+                result = [[arr[i], arr[i + 1]]]
+            elif diff == min_diff:
+                result.append([arr[i], arr[i + 1]])
+
+        return result
