@@ -374,6 +374,7 @@
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3379-score-of-a-string](https://github.com/hojinida/Algorithm/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
