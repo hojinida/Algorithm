@@ -243,6 +243,7 @@
 | [1293-three-consecutive-odds](https://github.com/hojinida/Algorithm/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/hojinida/Algorithm/tree/master/1306-minimum-absolute-difference) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
@@ -258,6 +259,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
 |  |
