@@ -238,6 +238,7 @@
 | [0322-coin-change](https://github.com/hojinida/Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/hojinida/Algorithm/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/hojinida/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/hojinida/Algorithm/tree/master/1293-three-consecutive-odds) |
@@ -296,6 +297,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/hojinida/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -348,6 +350,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hojinida/Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/hojinida/Algorithm/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/hojinida/Algorithm/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hojinida/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hojinida/Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
+| [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -504,4 +508,8 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
