@@ -416,12 +416,14 @@
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
+| [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
