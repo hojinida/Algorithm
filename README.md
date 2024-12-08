@@ -385,6 +385,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -428,6 +429,7 @@
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
