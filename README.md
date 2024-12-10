@@ -246,6 +246,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hojinida/Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
+| [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
@@ -385,6 +386,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
@@ -397,6 +399,7 @@
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
