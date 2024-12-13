@@ -303,6 +303,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/hojinida/Algorithm/tree/master/1256-rank-transform-of-an-array) |
@@ -385,6 +386,7 @@
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
+| [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
