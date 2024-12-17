@@ -396,6 +396,7 @@
 | [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/hojinida/Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
