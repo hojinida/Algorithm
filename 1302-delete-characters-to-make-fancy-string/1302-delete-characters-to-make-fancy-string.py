@@ -1,12 +1,17 @@
 class Solution:
     def makeFancyString(self, s: str) -> str:
-        stack = []
-
-        length = 0
-        for i in s:
-            stack.append(i)
-            if len(stack) > 2:
-                if stack[-1] == stack[-2] and stack[-2] == stack[-3]:
-                    stack.pop()
+        result = []
+        count = 1
         
-        return "".join(stack)
+        result.append(s[0])
+        
+        for i in range(1, len(s)):
+            if s[i] == s[i - 1]:
+                count += 1
+            else:
+                count = 1
+                
+            if count < 3:
+                result.append(s[i])
+        
+        return "".join(result)
