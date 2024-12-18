@@ -4,10 +4,12 @@ class Solution:
         answer = 0
 
         for boxType,unit in boxTypes:
-            while truckSize > 0 and boxType >0:
-                answer += unit
-                truckSize-=1
-                boxType-=1
+            resultBox = min(boxType,truckSize)
+            answer += unit*resultBox
+            truckSize -= resultBox
+            
+            if truckSize == 0:
+                break
         
         return answer
             
