@@ -239,6 +239,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/hojinida/Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/hojinida/Algorithm/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/hojinida/Algorithm/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/hojinida/Algorithm/tree/master/0898-transpose-matrix) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/hojinida/Algorithm/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
