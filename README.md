@@ -291,6 +291,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/hojinida/Algorithm/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hojinida/Algorithm/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -474,6 +475,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hojinida/Algorithm/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Bucket Sort
 |  |
 | ------- |
