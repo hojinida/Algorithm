@@ -230,6 +230,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hojinida/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/hojinida/Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0163-missing-ranges](https://github.com/hojinida/Algorithm/tree/master/0163-missing-ranges) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/hojinida/Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/hojinida/Algorithm/tree/master/0238-product-of-array-except-self) |
