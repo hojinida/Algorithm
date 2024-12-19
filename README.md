@@ -353,6 +353,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hojinida/Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hojinida/Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -388,6 +390,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hojinida/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hojinida/Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
@@ -488,6 +491,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/hojinida/Algorithm/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Bucket Sort
 |  |
@@ -508,6 +512,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hojinida/Algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -566,4 +571,8 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
