@@ -243,6 +243,7 @@
 | [0485-max-consecutive-ones](https://github.com/hojinida/Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/hojinida/Algorithm/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [0777-toeplitz-matrix](https://github.com/hojinida/Algorithm/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/hojinida/Algorithm/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/hojinida/Algorithm/tree/master/0890-lemonade-change) |
@@ -443,6 +444,7 @@
 | [0073-set-matrix-zeroes](https://github.com/hojinida/Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/hojinida/Algorithm/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
+| [0777-toeplitz-matrix](https://github.com/hojinida/Algorithm/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/hojinida/Algorithm/tree/master/0898-transpose-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
