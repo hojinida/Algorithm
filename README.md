@@ -229,6 +229,7 @@
 | [0088-merge-sorted-array](https://github.com/hojinida/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hojinida/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hojinida/Algorithm/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/hojinida/Algorithm/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hojinida/Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0163-missing-ranges](https://github.com/hojinida/Algorithm/tree/master/0163-missing-ranges) |
 | [0200-number-of-islands](https://github.com/hojinida/Algorithm/tree/master/0200-number-of-islands) |
@@ -499,6 +500,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/hojinida/Algorithm/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/hojinida/Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
