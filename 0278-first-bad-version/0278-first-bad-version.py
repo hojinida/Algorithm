@@ -13,7 +13,6 @@ class Solution:
             else:
                 left = mid +1
 
-        print(mid)
         if isBadVersion(mid-1):
             return mid-1
         if isBadVersion(mid):
