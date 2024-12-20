@@ -320,6 +320,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
@@ -416,6 +417,7 @@
 | [0242-valid-anagram](https://github.com/hojinida/Algorithm/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/hojinida/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
