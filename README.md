@@ -277,6 +277,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/hojinida/Algorithm/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/hojinida/Algorithm/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
@@ -595,4 +596,8 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/hojinida/Algorithm/tree/master/1916-find-center-of-star-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/hojinida/Algorithm/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
