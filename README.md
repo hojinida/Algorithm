@@ -253,6 +253,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hojinida/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/hojinida/Algorithm/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/hojinida/Algorithm/tree/master/1306-minimum-absolute-difference) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/hojinida/Algorithm/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hojinida/Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -475,6 +476,7 @@
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/hojinida/Algorithm/tree/master/0898-transpose-matrix) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/hojinida/Algorithm/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
