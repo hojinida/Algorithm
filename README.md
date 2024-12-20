@@ -272,6 +272,7 @@
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
+| [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -461,6 +463,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -472,6 +475,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
+| [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
