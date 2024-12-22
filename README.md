@@ -275,6 +275,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3469-maximum-height-of-a-triangle](https://github.com/hojinida/Algorithm/tree/master/3469-maximum-height-of-a-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -605,4 +606,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/hojinida/Algorithm/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/hojinida/Algorithm/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
