@@ -479,6 +479,7 @@
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/hojinida/Algorithm/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/hojinida/Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
@@ -489,6 +490,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/hojinida/Algorithm/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/hojinida/Algorithm/tree/master/0898-transpose-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/hojinida/Algorithm/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -614,4 +616,8 @@
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/hojinida/Algorithm/tree/master/3469-maximum-height-of-a-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hojinida/Algorithm/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
