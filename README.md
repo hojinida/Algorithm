@@ -243,6 +243,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/hojinida/Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/hojinida/Algorithm/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/hojinida/Algorithm/tree/master/0733-flood-fill) |
@@ -328,6 +329,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/hojinida/Algorithm/tree/master/0837-most-common-word) |
@@ -448,6 +450,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
+| [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
@@ -620,4 +623,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hojinida/Algorithm/tree/master/0258-add-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
