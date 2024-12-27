@@ -410,6 +410,7 @@
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
+| [1708-design-parking-system](https://github.com/hojinida/Algorithm/tree/master/1708-design-parking-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | [1382-calculate-amount-paid-in-taxes](https://github.com/hojinida/Algorithm/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
+| [1708-design-parking-system](https://github.com/hojinida/Algorithm/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hojinida/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -536,6 +538,7 @@
 | [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0837-most-common-word](https://github.com/hojinida/Algorithm/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1708-design-parking-system](https://github.com/hojinida/Algorithm/tree/master/1708-design-parking-system) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Quickselect
