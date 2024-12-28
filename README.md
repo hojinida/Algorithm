@@ -438,6 +438,7 @@
 | [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/hojinida/Algorithm/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/hojinida/Algorithm/tree/master/0837-most-common-word) |
+| [0851-goat-latin](https://github.com/hojinida/Algorithm/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/hojinida/Algorithm/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hojinida/Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
