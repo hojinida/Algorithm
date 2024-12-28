@@ -267,6 +267,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/hojinida/Algorithm/tree/master/1755-defuse-the-bomb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/hojinida/Algorithm/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/hojinida/Algorithm/tree/master/1829-maximum-units-on-a-truck) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hojinida/Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -339,6 +340,7 @@
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/hojinida/Algorithm/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hojinida/Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
@@ -441,6 +443,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/hojinida/Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
@@ -519,6 +522,7 @@
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/hojinida/Algorithm/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hojinida/Algorithm/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
@@ -539,6 +543,7 @@
 | [0837-most-common-word](https://github.com/hojinida/Algorithm/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hojinida/Algorithm/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1708-design-parking-system](https://github.com/hojinida/Algorithm/tree/master/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2071-longest-common-subsequence-between-sorted-arrays](https://github.com/hojinida/Algorithm/tree/master/2071-longest-common-subsequence-between-sorted-arrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Quickselect
