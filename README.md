@@ -347,6 +347,7 @@
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/hojinida/Algorithm/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -496,6 +497,7 @@
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
 | [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/hojinida/Algorithm/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -569,6 +571,7 @@
 | [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/hojinida/Algorithm/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Memoization
 |  |
 | ------- |
