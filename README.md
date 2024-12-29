@@ -278,6 +278,7 @@
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/hojinida/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 | [3469-maximum-height-of-a-triangle](https://github.com/hojinida/Algorithm/tree/master/3469-maximum-height-of-a-triangle) |
 ## Binary Search
@@ -450,6 +451,7 @@
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/hojinida/Algorithm/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3379-score-of-a-string](https://github.com/hojinida/Algorithm/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -566,6 +568,7 @@
 | [0322-coin-change](https://github.com/hojinida/Algorithm/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/hojinida/Algorithm/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -593,6 +596,7 @@
 | [0890-lemonade-change](https://github.com/hojinida/Algorithm/tree/master/0890-lemonade-change) |
 | [1829-maximum-units-on-a-truck](https://github.com/hojinida/Algorithm/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
