@@ -453,6 +453,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hojinida/Algorithm/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hojinida/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/hojinida/Algorithm/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/hojinida/Algorithm/tree/master/2502-sort-the-people) |
@@ -470,6 +471,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hojinida/Algorithm/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/hojinida/Algorithm/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
@@ -608,6 +610,7 @@
 | [0179-largest-number](https://github.com/hojinida/Algorithm/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/hojinida/Algorithm/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/hojinida/Algorithm/tree/master/0890-lemonade-change) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/hojinida/Algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1829-maximum-units-on-a-truck](https://github.com/hojinida/Algorithm/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/hojinida/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hojinida/Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
