@@ -12,12 +12,11 @@ class Solution:
 
             return stack
         point = 0
-        result=deleteS(s,"ab",x)
-        deleteS("".join(result),"ba",y)
-        temp = point
+        if y < x:
+            result=deleteS(s,"ab",x)
+            deleteS("".join(result),"ba",y)
+        else:
+            result=deleteS(s,"ba",y)
+            deleteS("".join(result),"ab",x)
 
-        point = 0
-        result=deleteS(s,"ba",y)
-        deleteS("".join(result),"ab",x)
-
-        return max(temp,point)
+        return point
