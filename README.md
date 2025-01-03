@@ -246,6 +246,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/hojinida/Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/hojinida/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/hojinida/Algorithm/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/hojinida/Algorithm/tree/master/0733-flood-fill) |
@@ -337,6 +338,7 @@
 | [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/hojinida/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/hojinida/Algorithm/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/hojinida/Algorithm/tree/master/0837-most-common-word) |
@@ -592,6 +594,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hojinida/Algorithm/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/hojinida/Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/hojinida/Algorithm/tree/master/1603-running-sum-of-1d-array) |
 ## Backtracking
 |  |
