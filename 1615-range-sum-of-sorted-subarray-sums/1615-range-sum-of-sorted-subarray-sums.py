@@ -1,12 +1,20 @@
+import heapq
+
 class Solution:
     def rangeSum(self, nums: List[int], n: int, left: int, right: int) -> int:
-        answer = []
+        mod = 10**9 + 7
+        heap = []
         
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)+1):
-                answer.append(sum(nums[i:j]))
+        # 초기 상태에서 힙에 부분합 초기화
+        for i in range(n):
+            heapq.heappush(heap, (nums[i], i + 1))
         
-        answer.sort()
-        return sum(answer[left-1:right])%(10**9+7)
-
+        answer = 0
+        for k in range(1, right + 1):
+            val, idx = heapq.heappop(heap)
+            if k >= left:
+                answer = (answer + val) % mod
+            if idx < n:
+                heapq.heappush(heap, (val + nums[idx], idx + 1))
         
+        return answer
