@@ -2,23 +2,18 @@ import heapq
 
 class Solution:
     def rangeSum(self, nums: List[int], n: int, left: int, right: int) -> int:
-        MOD = 10**9 + 7
+        mod = 10**9 + 7
+        heap = []
         
-        # Step 1: Prefix Sum 계산
-        prefix = [0] * len(nums)
-        prefix[0] = nums[0]
-        for i in range(1, len(nums)):
-            prefix[i] = prefix[i - 1] + nums[i]
+        for i in range(n):
+            heapq.heappush(heap, (nums[i], i + 1))
         
-        # Step 2: 모든 부분합 계산
-        subarray_sums = []
-        for i in range(len(nums)):
-            for j in range(i, len(nums)):
-                if i == 0:
-                    subarray_sums.append(prefix[j])
-                else:
-                    subarray_sums.append(prefix[j] - prefix[i - 1])
+        answer = 0
+        for k in range(1, right + 1):
+            val, idx = heapq.heappop(heap)
+            if k >= left:
+                answer = (answer + val) % mod
+            if idx < n:
+                heapq.heappush(heap, (val + nums[idx], idx + 1))
         
-        # Step 3: 정렬 후 필요한 값만 합산
-        subarray_sums.sort()
-        return sum(subarray_sums[left - 1:right]) % MOD
+        return answer
