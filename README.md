@@ -266,6 +266,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/hojinida/Algorithm/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hojinida/Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/hojinida/Algorithm/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hojinida/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/hojinida/Algorithm/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -292,6 +293,7 @@
 | [0278-first-bad-version](https://github.com/hojinida/Algorithm/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/hojinida/Algorithm/tree/master/0792-binary-search) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hojinida/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/hojinida/Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
@@ -313,6 +315,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hojinida/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/hojinida/Algorithm/tree/master/1306-minimum-absolute-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/hojinida/Algorithm/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hojinida/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hojinida/Algorithm/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hojinida/Algorithm/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/hojinida/Algorithm/tree/master/1829-maximum-units-on-a-truck) |
@@ -375,6 +378,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/hojinida/Algorithm/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/hojinida/Algorithm/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/hojinida/Algorithm/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/hojinida/Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Tree
 |  |
