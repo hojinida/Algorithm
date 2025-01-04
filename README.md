@@ -221,6 +221,7 @@
 | [0015-3sum](https://github.com/hojinida/Algorithm/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/hojinida/Algorithm/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/hojinida/Algorithm/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/hojinida/Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/hojinida/Algorithm/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/hojinida/Algorithm/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/hojinida/Algorithm/tree/master/0059-spiral-matrix-ii) |
@@ -536,6 +537,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hojinida/Algorithm/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/hojinida/Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hojinida/Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -585,6 +587,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/hojinida/Algorithm/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/hojinida/Algorithm/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/hojinida/Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hojinida/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
