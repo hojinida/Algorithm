@@ -244,6 +244,7 @@
 | [0322-coin-change](https://github.com/hojinida/Algorithm/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hojinida/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/hojinida/Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hojinida/Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -335,6 +336,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/hojinida/Algorithm/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/hojinida/Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hojinida/Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hojinida/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/hojinida/Algorithm/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/hojinida/Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
@@ -418,6 +420,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hojinida/Algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/hojinida/Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/hojinida/Algorithm/tree/master/0271-encode-and-decode-strings) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hojinida/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hojinida/Algorithm/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/hojinida/Algorithm/tree/master/0817-design-hashmap) |
 | [1708-design-parking-system](https://github.com/hojinida/Algorithm/tree/master/1708-design-parking-system) |
@@ -504,6 +507,7 @@
 | [0227-basic-calculator-ii](https://github.com/hojinida/Algorithm/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/hojinida/Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hojinida/Algorithm/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/hojinida/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hojinida/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1642-water-bottles](https://github.com/hojinida/Algorithm/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hojinida/Algorithm/tree/master/2645-pass-the-pillow) |
@@ -662,4 +666,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hojinida/Algorithm/tree/master/0496-next-greater-element-i) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/hojinida/Algorithm/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
